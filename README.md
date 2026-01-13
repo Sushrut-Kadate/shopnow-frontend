@@ -1,8 +1,18 @@
-# React + Vite
+# ShopNow Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend for **ShopNow**, a modern e-commerce platform.
 
-Currently, two official plugins are available:
+## 🛠 Tech Stack
+- React.js
+- HTML, CSS, JavaScript
+- REST API integration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Product listing
+- Add to cart
+- Checkout flow
+- Payment integration
+- Order tracking
+
+## 📌 Notes
+Connects with ShopNow backend APIs.
